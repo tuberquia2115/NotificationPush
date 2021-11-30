@@ -1,0 +1,11 @@
+{
+    "Simulator Target Bundle": "[BUNDLE_ID]",
+    "aps": {
+     "alert" : {
+       "title" : "Hola Hackermen 💻📲",
+       "body" : "¡Bienvenido a MoureDev!"
+     },
+        "sound": "default",
+        "badge": 1
+    }
+}
